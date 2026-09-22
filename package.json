@@ -1,0 +1,11 @@
+{
+  "name": "vc-connect",
+  "version": "1.0.0",
+  "description": "Connecte un bot Discord à un salon vocal via cmd",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "@discordjs/voice": "^0.17.0",
+    "libsodium-wrappers": "^0.7.13"
+  }
+}
