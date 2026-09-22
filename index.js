@@ -2,9 +2,9 @@ const { Client, GatewayIntentBits, REST, Routes, SlashCommandBuilder } = require
 const { joinVoiceChannel, getVoiceConnection } = require('@discordjs/voice');
 
 // ==== À remplir ====
-const TOKEN = 'MTU1MTg3NjEwMTg2MzkwMzI0Mw.GIpLPx.by-ifwB1zY_OQXWovnzvORJpuaMMLjLVIMv064';
-const CLIENT_ID = '1551876101863903243';
-const GUILD_ID = 'ID_DE_TON_SERVEUR_ICI';
+const TOKEN = 'PUT_YOUR_TOKEN_HERE';
+const CLIENT_ID = 'PUT_YOUR_BOT_ID_HERE';
+const GUILD_ID = 'SERVERIDNOTNECESSARY';
 // ===================
 
 const commands = [
